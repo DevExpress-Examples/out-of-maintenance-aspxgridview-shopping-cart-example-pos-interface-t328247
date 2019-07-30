@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # ASPxGridView - Shopping Cart example (POS Interface)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t328247)**
+**[[Run Online]](https://codecentral.devexpress.com/t328247/)**
 <!-- run online end -->
 
 
